@@ -5,7 +5,7 @@
         <version>1.5</version>
     </skin>
     <bannerLeft>
-        <name>OpenShift CI/CD Demo</name>
+        <name>OpenShift CI/CD Demo on NIKIO</name>
         <src>https://www.openshift.com/content/subdomain/openshift-logo-horizontal.svg</src>
         <href>http://www.openshift.com</href>
     </bannerLeft>
